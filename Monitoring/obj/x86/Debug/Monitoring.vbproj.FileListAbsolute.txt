@@ -1,0 +1,1116 @@
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\bin\Debug\Monitoring.exe
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\bin\Debug\Monitoring.pdb
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\bin\Debug\Monitoring.xml
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmColor.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmGroup.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmVillage.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmMunicipality.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmArea.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmCompanySettings.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmEntryInfo.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLeaders.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLeadersInfo.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLogin.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\obj\x86\Debug\Monitoring.Resources.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\obj\x86\Debug\Monitoring.MBAIMain.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\obj\x86\Debug\Monitoring.rptOtherReport.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmGridFormat.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\obj\x86\Debug\Monitoring.exe.licenses
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\obj\x86\Debug\Monitoring.exe
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\obj\x86\Debug\Monitoring.xml
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\obj\x86\Debug\Monitoring.pdb
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmVotersEntries.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\Monitoring\obj\x86\Debug\Monitoring.exe
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\Monitoring\obj\x86\Debug\Monitoring.xml
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\Monitoring\obj\x86\Debug\Monitoring.pdb
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\Monitoring\bin\Debug\Monitoring.exe
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\Monitoring\bin\Debug\Monitoring.pdb
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\Monitoring\bin\Debug\Monitoring.xml
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\Monitoring\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmColor.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmGroup.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmVillage.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmMunicipality.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmArea.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmCompanySettings.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmEntryInfo.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLeaders.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLeadersInfo.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLogin.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmVotersEntries.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\Monitoring\obj\x86\Debug\Monitoring.Resources.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\Monitoring\obj\x86\Debug\Monitoring.MBAIMain.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\Monitoring\obj\x86\Debug\Monitoring.rptOtherReport.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmGridFormat.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\Monitoring\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\Monitoring\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\Monitoring\obj\x86\Debug\Monitoring.exe.licenses
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\Monitoring\bin\Debug\Monitoring.exe.config
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmAssignLeader.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmVotersList.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLeaderAssigned.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmAppearance.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\bin\Debug\Monitoring.exe.config
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.exe
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.xml
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.pdb
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\bin\Debug\Monitoring.exe
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\bin\Debug\Monitoring.pdb
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\bin\Debug\Monitoring.xml
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmColor.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmVillage.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmMunicipality.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmArea.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmCompanySettings.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLeaderAssigned.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmEntryInfo.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLeaders.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLeadersInfo.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLogin.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmVotersEntries.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.Resources.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.rptOtherReport.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmAppearance.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmGridFormat.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.exe.licenses
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmUserProfile.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmUsersAccounts.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmChangeLeader.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSystemSettings.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.rptLeaders.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmStatusResultbyArea.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmStatusResultbyColor.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmStatusResultbyMunicipal.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmStatusResultbyvillage.resources
+D:\Monitoring\Monitoring\bin\Debug\Monitoring.exe.config
+D:\Monitoring\Monitoring\obj\x86\Debug\Monitoring.exe
+D:\Monitoring\Monitoring\obj\x86\Debug\Monitoring.xml
+D:\Monitoring\Monitoring\obj\x86\Debug\Monitoring.pdb
+D:\Monitoring\Monitoring\bin\Debug\Monitoring.exe
+D:\Monitoring\Monitoring\bin\Debug\Monitoring.pdb
+D:\Monitoring\Monitoring\bin\Debug\Monitoring.xml
+D:\Monitoring\Monitoring\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmColor.resources
+D:\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmVillage.resources
+D:\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmMunicipality.resources
+D:\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmArea.resources
+D:\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmCompanySettings.resources
+D:\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLeaderAssigned.resources
+D:\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmEntryInfo.resources
+D:\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLeaders.resources
+D:\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLeadersInfo.resources
+D:\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmChangeLeader.resources
+D:\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmStatusResultbyvillage.resources
+D:\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmStatusResultbyMunicipal.resources
+D:\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmStatusResultbyArea.resources
+D:\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmStatusResultbyColor.resources
+D:\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmVotersList.resources
+D:\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLogin.resources
+D:\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmVotersEntries.resources
+D:\Monitoring\Monitoring\obj\x86\Debug\Monitoring.Resources.resources
+D:\Monitoring\Monitoring\obj\x86\Debug\Monitoring.MBAIMain.resources
+D:\Monitoring\Monitoring\obj\x86\Debug\Monitoring.rptLeaders.resources
+D:\Monitoring\Monitoring\obj\x86\Debug\Monitoring.rptOtherReport.resources
+D:\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmAppearance.resources
+D:\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmGridFormat.resources
+D:\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSystemSettings.resources
+D:\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmUserProfile.resources
+D:\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmUsersAccounts.resources
+D:\Monitoring\Monitoring\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Monitoring\Monitoring\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Monitoring\Monitoring\obj\x86\Debug\Monitoring.exe.licenses
+D:\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmImport.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.vbproj.ResolveComReference.cache
+D:\Monitoring\Monitoring\obj\x86\Debug\Monitoring.vbproj.ResolveComReference.cache
+D:\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLeaderInformation.resources
+D:\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmColorChange.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmColorChange.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLeaderInformation.resources
+D:\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmTransferVoters.resources
+E:\Kiracrack\Monitoring\Monitoring\bin\Debug\Monitoring.exe.config
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.vbproj.ResolveComReference.cache
+E:\Kiracrack\Monitoring\Monitoring\bin\Debug\Monitoring.exe
+E:\Kiracrack\Monitoring\Monitoring\bin\Debug\Monitoring.pdb
+E:\Kiracrack\Monitoring\Monitoring\bin\Debug\Monitoring.xml
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmMissingCapture.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmColorChange.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmColor.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmUpdateDatabase.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmVillage.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmMunicipality.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmArea.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmCompanySettings.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmVoterSearch.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmTransferVoters.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLeaderAssigned.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLeaderInformation.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmEntryInfo.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLeaders.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLeadersInfo.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmChangeLeader.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmGeneralSummary.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLeaderPerformance.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmColorSummary.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmStatusResultbyvillage.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmStatusResultbyMunicipal.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmStatusResultbyArea.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmStatusResultbyColor.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLogin.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmVotersEntries.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.Resources.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.rptLeaders.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.rptOtherReport.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmAppearance.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmGridFormat.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSystemSettings.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmUserProfile.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmUsersAccounts.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.exe.licenses
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.exe
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.xml
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.pdb
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.rptGeneralSummary.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmColorCodeListing.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSector.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmTagSector.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSectorListing.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmAbout.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.MainMonitoring.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmClusterized.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmReportDeveloper.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmReportGenerator.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmReportTemplate.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmClusteredListing.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\bin\Debug\Monitoring.exe.config
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.vbproj.ResolveComReference.cache
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.exe
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.xml
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.pdb
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\bin\Debug\Monitoring.exe
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\bin\Debug\Monitoring.pdb
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\bin\Debug\Monitoring.xml
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmImportfromAcrobat.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmClusterized.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmTagSector.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSector.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmMissingCapture.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmColorChange.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmImport.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmColor.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmUpdateDatabase.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmVillage.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmMunicipality.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmArea.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmCompanySettings.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmVoterSearch.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmReviewUpload.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmTransferVoters.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLeaderAssigned.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLeaderInformation.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmEntryInfo.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLeaders.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLeadersInfo.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmChangeLeader.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.rptGeneralSummary.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmReportDeveloper.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmReportGenerator.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmReportTemplate.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmAbout.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmClusteredListing.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSectorListing.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmColorCodeListing.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmGeneralSummary.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLeaderPerformance.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmColorSummary.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmStatusResultbyvillage.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmStatusResultbyMunicipal.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmStatusResultbyArea.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmStatusResultbyColor.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmVotersList.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLogin.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmVotersEntries.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.Resources.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.MainMonitoring.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.rptLeaders.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.rptOtherReport.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmAppearance.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmGridFormat.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSystemSettings.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmUserProfile.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmUsersAccounts.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.exe.licenses
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmDuplicateManager.resources
+E:\Kiracrack\Personal Files\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmBackupTool.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmClusterized.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmTagSector.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSector.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmMissingCapture.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmUpdateDatabase.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmVoterSearch.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmTransferVoters.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.rptGeneralSummary.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmBackupTool.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmDuplicateManager.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmReportDeveloper.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmReportGenerator.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmReportTemplate.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmAbout.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmClusteredListing.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSectorListing.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmColorCodeListing.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmGeneralSummary.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLeaderPerformance.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmColorSummary.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.MainMonitoring.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSynchronizedHistory.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSynchronizedHistory.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmBackupTool.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmDuplicateManager.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmImportRecords.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmCaptureFromComelec.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSynchronizeRecords.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmUnassignedList.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmUploadedHistory.resources
+E:\Kiracrack\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmConfiguration.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmConfiguration.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmImportRecords.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmCaptureFromComelec.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSynchronizeRecords.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmUnassignedList.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmUploadedHistory.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmMigrateVotersViewer.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmImportBackup.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmMigrateColor.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmMigrateData.resources
+D:\Kiracrack\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.vbproj.GenerateResource.Cache
+E:\MY.NET\Monitoring\Monitoring\bin\Debug\Monitoring.exe.config
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.vbproj.ResolveComReference.cache
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.exe
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.xml
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.pdb
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.vbprojResolveAssemblyReference.cache
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmConfiguration.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmImportBackup.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmMigrateColor.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmMigrateVotersViewer.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmMigrateData.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmImportRecords.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSynchronizedHistory.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmClusterized.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmTagSector.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSector.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmMissingCapture.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmColorChange.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmCaptureFromComelec.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmColor.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmUpdateDatabase.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmVillage.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmMunicipality.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmArea.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmCompanySettings.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmVoterSearch.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSynchronizeRecords.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmTransferVoters.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLeaderAssigned.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLeaderInformation.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmEntryInfo.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLeaders.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLeadersInfo.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmChangeLeader.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.rptGeneralSummary.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmBackupTool.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmDuplicateManager.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmReportDeveloper.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmReportGenerator.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmReportTemplate.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmAbout.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmClusteredListing.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSectorListing.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmColorCodeListing.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmGeneralSummary.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLeaderPerformance.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmColorSummary.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmStatusResultbyvillage.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmStatusResultbyMunicipal.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmStatusResultbyArea.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmStatusResultbyColor.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmUnassignedList.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLogin.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmVotersEntries.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.Resources.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.MainMonitoring.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.rptLeaders.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.rptOtherReport.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmAppearance.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmGridFormat.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSystemSettings.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmUserProfile.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmUsersAccounts.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmUploadedHistory.resources
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.vbproj.GenerateResource.Cache
+E:\MY.NET\Monitoring\Monitoring\obj\x86\Debug\Monitoring.exe.licenses
+E:\MY.NET\Monitoring\Monitoring\bin\Debug\Monitoring.exe
+E:\MY.NET\Monitoring\Monitoring\bin\Debug\Monitoring.pdb
+E:\MY.NET\Monitoring\Monitoring\bin\Debug\Monitoring.xml
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.BonusSkins.v15.1.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.Charts.v15.1.Core.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.Data.v15.1.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.Office.v15.1.Core.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.PivotGrid.v15.1.Core.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.Utils.v15.1.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.Utils.v15.1.UI.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.XtraBars.v15.1.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.XtraCharts.v15.1.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.XtraCharts.v15.1.UI.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.XtraGauges.v15.1.Core.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.XtraGauges.v15.1.Win.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.XtraNavBar.v15.1.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.XtraPivotGrid.v15.1.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.XtraReports.v15.1.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.XtraRichEdit.v15.1.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\System.Configuration.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\System.Data.DataSetExtensions.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\System.Data.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\System.Deployment.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\System.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\System.Drawing.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\System.Runtime.Serialization.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\System.ServiceModel.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\System.ServiceProcess.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\System.Web.Services.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\System.Windows.Forms.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\System.Xml.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\System.Xml.Linq.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.Data.v15.1.xml
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.PivotGrid.v15.1.Core.xml
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.Office.v15.1.Core.xml
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.Utils.v15.1.xml
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.XtraBars.v15.1.xml
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.xml
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.XtraCharts.v15.1.xml
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.XtraCharts.v15.1.UI.xml
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.XtraGauges.v15.1.Core.xml
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.XtraGauges.v15.1.Win.xml
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.XtraPivotGrid.v15.1.xml
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.Utils.v15.1.UI.xml
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.XtraReports.v15.1.xml
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.XtraRichEdit.v15.1.xml
+D:\My.Net\Monitoring\Monitoring\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+D:\My.Net\Monitoring\Monitoring\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\de\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\es\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\ja\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\ru\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\de\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\es\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\ja\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\ru\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\de\DevExpress.XtraCharts.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\es\DevExpress.XtraCharts.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\ja\DevExpress.XtraCharts.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\ru\DevExpress.XtraCharts.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\de\DevExpress.XtraGauges.v15.1.Core.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\es\DevExpress.XtraGauges.v15.1.Core.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\ja\DevExpress.XtraGauges.v15.1.Core.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\ru\DevExpress.XtraGauges.v15.1.Core.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\de\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\es\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\de\DevExpress.Utils.v15.1.UI.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\es\DevExpress.Utils.v15.1.UI.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\ja\DevExpress.Utils.v15.1.UI.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\ru\DevExpress.Utils.v15.1.UI.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\de\DevExpress.XtraReports.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\es\DevExpress.XtraReports.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\ja\DevExpress.XtraReports.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\ru\DevExpress.XtraReports.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.vbproj.ResolveComReference.cache
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmCaptureBarcode.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmConfiguration.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmReports_Work.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmIDCategory.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmImportBackup.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmMigrateColor.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmMigrateVotersViewer.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmMigrateData.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSystemDownloader.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.rptID.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSystemOwnerConfirmation.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLicenseActivator.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmActivateLicense.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSMSSettings.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmUploadSystemUpdate.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmCheckUpdates.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmChangePass.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmCaptureFromCommelecNew.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmConnectionSetup.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.WaitForm1.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSMSRegisterNumber.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSMSPickupNumber.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSMSViewMessage.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSMSAddToGroup.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSMSGroup.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSMSGroupMessage.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSMSTemplate.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSMSView.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSMSNewMessage.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmUserPerformance.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmImportRecords.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSynchronizedHistory.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmClusterized.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmTagSector.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSector.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmMissingCapture.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmColorChange.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmCaptureFromComelec.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmColor.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmUpdateDatabase.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmVillage.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmMunicipality.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmArea.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmCompanySettings.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmVoterSearch.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSynchronizeRecords.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmTransferVoters.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLeaderAssigned.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLeaderInformation.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmEntryInfo.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLeaders.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLeadersInfo.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmChangeLeader.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.rptGeneralSummary.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmBackupTool.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmDuplicateManager.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmReportDeveloper.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmReportGenerator.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmReportTemplate.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmAbout.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmClusteredListing.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSectorListing.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmColorCodeListing.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmGeneralSummary.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLeaderPerformance.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmColorSummary.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmStatusResultbyvillage.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmStatusResultbyMunicipal.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmStatusResultbyArea.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmStatusResultbyColor.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmAddtoLeaderList.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLogin.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmVotersEntries.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.Resources.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.MainMonitoring.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.rptLeaders.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.rptOtherReport.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmAppearance.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmGridFormat.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmUserProfile.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmUsersAccounts.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmUploadedHistory.resources
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.vbproj.GenerateResource.Cache
+D:\My.Net\Monitoring\Monitoring\bin\Debug\Monitoring.exe.config
+D:\My.Net\Monitoring\Monitoring\bin\Debug\Monitoring.exe
+D:\My.Net\Monitoring\Monitoring\bin\Debug\Monitoring.pdb
+D:\My.Net\Monitoring\Monitoring\bin\Debug\Monitoring.xml
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.exe.licenses
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.exe
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.xml
+D:\My.Net\Monitoring\Monitoring\obj\x86\Debug\Monitoring.pdb
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\Monitoring.exe.config
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\Monitoring.exe
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\Monitoring.pdb
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\Monitoring.xml
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.BonusSkins.v15.1.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.Charts.v15.1.Core.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.Data.v15.1.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.Office.v15.1.Core.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.PivotGrid.v15.1.Core.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.Utils.v15.1.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.Utils.v15.1.UI.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraBars.v15.1.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraCharts.v15.1.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraCharts.v15.1.UI.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraGauges.v15.1.Core.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraGauges.v15.1.Win.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraNavBar.v15.1.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraPivotGrid.v15.1.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraReports.v15.1.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraRichEdit.v15.1.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\System.Configuration.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\System.Data.DataSetExtensions.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\System.Data.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\System.Deployment.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\System.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\System.Drawing.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\System.Runtime.Serialization.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\System.ServiceModel.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\System.ServiceProcess.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\System.Web.Services.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\System.Windows.Forms.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\System.Xml.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\System.Xml.Linq.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.Data.v15.1.xml
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.PivotGrid.v15.1.Core.xml
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.Office.v15.1.Core.xml
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.Utils.v15.1.xml
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraBars.v15.1.xml
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.xml
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraCharts.v15.1.xml
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraCharts.v15.1.UI.xml
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraGauges.v15.1.Core.xml
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraGauges.v15.1.Win.xml
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraPivotGrid.v15.1.xml
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.Utils.v15.1.UI.xml
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraReports.v15.1.xml
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraRichEdit.v15.1.xml
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\de\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\es\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ja\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ru\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\de\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\es\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ja\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ru\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\de\DevExpress.XtraCharts.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\es\DevExpress.XtraCharts.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ja\DevExpress.XtraCharts.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ru\DevExpress.XtraCharts.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\de\DevExpress.XtraGauges.v15.1.Core.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\es\DevExpress.XtraGauges.v15.1.Core.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ja\DevExpress.XtraGauges.v15.1.Core.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ru\DevExpress.XtraGauges.v15.1.Core.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\de\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\es\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\de\DevExpress.Utils.v15.1.UI.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\es\DevExpress.Utils.v15.1.UI.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ja\DevExpress.Utils.v15.1.UI.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ru\DevExpress.Utils.v15.1.UI.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\de\DevExpress.XtraReports.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\es\DevExpress.XtraReports.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ja\DevExpress.XtraReports.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ru\DevExpress.XtraReports.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.vbproj.ResolveComReference.cache
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmCaptureBarcode.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmConfiguration.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmVotersInformation.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmReports_Work.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmIDCategory.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmImportBackup.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmMigrateColor.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmMigrateVotersViewer.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmMigrateData.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSystemDownloader.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.rptID.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSystemOwnerConfirmation.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLicenseActivator.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmActivateLicense.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSMSSettings.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmUploadSystemUpdate.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmCheckUpdates.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmChangePass.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmCaptureFromCommelecNew.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmConnectionSetup.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.WaitForm1.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSMSRegisterNumber.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSMSPickupNumber.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSMSViewMessage.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSMSAddToGroup.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSMSGroup.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSMSGroupMessage.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSMSTemplate.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSMSView.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSMSNewMessage.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmUserPerformance.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmServerDataExporter.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmImportRecords.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSynchronizedHistory.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmClusterized.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmTagSector.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSector.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmMissingCapture.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmColorChange.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmCaptureFromComelec.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmColor.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmUpdateDatabase.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmVillage.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmMunicipality.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmArea.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmCompanySettings.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmVoterSearch.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSynchronizeRecords.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmTransferVoters.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLeaderAssigned.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLeaderInformation.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmEntryInfo.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLeaders.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLeadersInfo.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmChangeLeader.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.rptGeneralSummary.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmBackupTool.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmDuplicateManager.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmReportDeveloper.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmReportGenerator.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmReportTemplate.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmAbout.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmClusteredListing.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSectorListing.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmColorCodeListing.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmGeneralSummary.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLeaderPerformance.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmColorSummary.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmStatusResultbyvillage.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmStatusResultbyMunicipal.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmStatusResultbyArea.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmStatusResultbyColor.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmAddtoLeaderList.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLogin.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmVotersEntries.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.Resources.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.MainMonitoring.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.rptLeaders.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.rptOtherReport.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmAppearance.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmGridFormat.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmUserProfile.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmUsersAccounts.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmUploadedHistory.resources
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.vbproj.GenerateResource.Cache
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.exe.licenses
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.exe
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.xml
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.pdb
+D:\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.vbprojResolveAssemblyReference.cache
+C:\My Files\My.Net\System Core\Monitoring2\Monitoring\obj\x86\Debug\Monitoring.vbprojResolveAssemblyReference.cache
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\Monitoring.exe.config
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\Monitoring.exe
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\Monitoring.pdb
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\Monitoring.xml
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.BonusSkins.v18.1.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.Charts.v18.1.Core.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.CodeParser.v18.1.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.Data.v18.1.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.Images.v18.1.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.Office.v18.1.Core.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.PivotGrid.v18.1.Core.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.RichEdit.v18.1.Export.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.Utils.v18.1.UI.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.Xpo.v18.1.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraBars.v18.1.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraCharts.v18.1.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraCharts.v18.1.UI.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraCharts.v18.1.Wizard.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraGauges.v18.1.Core.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraGauges.v18.1.Win.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraGrid.v18.1.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraLayout.v18.1.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraNavBar.v18.1.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraPivotGrid.v18.1.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraPrinting.v18.1.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraReports.v18.1.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraReports.v18.1.Extensions.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraRichEdit.v18.1.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraTreeList.v18.1.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\System.Configuration.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\System.Data.DataSetExtensions.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\System.Data.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\System.Deployment.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\System.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\System.Drawing.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\System.Runtime.Serialization.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\System.ServiceModel.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\System.ServiceProcess.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\System.Web.Services.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\System.Windows.Forms.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\System.Xml.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\System.Xml.Linq.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.Data.v18.1.xml
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.PivotGrid.v18.1.Core.xml
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.Office.v18.1.Core.xml
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.Xpo.v18.1.xml
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraBars.v18.1.xml
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraCharts.v18.1.Wizard.xml
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraCharts.v18.1.xml
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraCharts.v18.1.UI.xml
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraGauges.v18.1.Core.xml
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraGauges.v18.1.Win.xml
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraGrid.v18.1.xml
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraLayout.v18.1.xml
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraNavBar.v18.1.xml
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraPivotGrid.v18.1.xml
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraPrinting.v18.1.xml
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.Utils.v18.1.UI.xml
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraReports.v18.1.Extensions.xml
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraReports.v18.1.xml
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraRichEdit.v18.1.xml
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\DevExpress.XtraTreeList.v18.1.xml
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\de\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\es\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ja\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ru\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\de\DevExpress.Xpo.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\es\DevExpress.Xpo.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ja\DevExpress.Xpo.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ru\DevExpress.Xpo.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\de\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\es\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ja\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ru\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\de\DevExpress.XtraCharts.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\es\DevExpress.XtraCharts.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ja\DevExpress.XtraCharts.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ru\DevExpress.XtraCharts.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\de\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\es\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ja\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ru\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\de\DevExpress.XtraGrid.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\es\DevExpress.XtraGrid.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ja\DevExpress.XtraGrid.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ru\DevExpress.XtraGrid.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\de\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\es\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ja\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ru\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\de\DevExpress.XtraPivotGrid.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\es\DevExpress.XtraPivotGrid.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ja\DevExpress.XtraPivotGrid.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ru\DevExpress.XtraPivotGrid.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\de\DevExpress.Utils.v18.1.UI.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\es\DevExpress.Utils.v18.1.UI.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ja\DevExpress.Utils.v18.1.UI.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ru\DevExpress.Utils.v18.1.UI.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\de\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\es\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ja\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ru\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\de\DevExpress.XtraReports.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\es\DevExpress.XtraReports.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ja\DevExpress.XtraReports.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ru\DevExpress.XtraReports.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\de\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\es\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ja\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ru\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\de\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\es\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\bin\Debug\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.vbprojResolveAssemblyReference.cache
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.vbproj.ResolveComReference.cache
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmExportList.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmCategoryID.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmCaptureBarcode.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmConfiguration.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmQRCodeStubReports.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSubMemberInfo.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmAddtoSubLeaderList.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmUpdateVotersListing.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmVotersInformation.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmReports_Work.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.rptCustomPanelView.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmCustomReportDesigner.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.rptCustomBackTemplate.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.rptCustomFrontTemplate.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmIDCategory.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmReportDesigner.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.rptDepedDesigner.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.rptDepedPanelView.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmImportBackup.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmMigrateColor.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmMigrateVotersViewer.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmMigrateData.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSystemDownloader.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.rptID.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmColumnFilter.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSystemOwnerConfirmation.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLicenseActivator.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmActivateLicense.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSMSSettings.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmUploadSystemUpdate.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmCheckUpdates.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmChangePass.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmCaptureFromCommelecNew.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmConnectionSetup.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.WaitForm1.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSMSRegisterNumber.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSMSPickupNumber.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSMSViewMessage.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSMSAddToGroup.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSMSGroup.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSMSGroupMessage.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSMSTemplate.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSMSView.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSMSNewMessage.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmUserPerformance.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmServerDataExporter.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmImportRecords.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSynchronizedHistory.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmClusterized.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmTagSector.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSector.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmMissingCapture.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmColorChange.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmCaptureFromComelec.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmColor.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmUpdateDatabase.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmVillage.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmMunicipality.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmArea.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmCompanySettings.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmVoterSearch.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSynchronizeRecords.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmTransferVoters.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLeaderAssigned.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLeaderInformation.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmEntryInfo.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLeaders.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLeadersInfo.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmChangeLeader.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.rptGeneralSummary.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmBackupTool.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmDuplicateManager.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmReportDeveloper.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmReportGenerator.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmReportTemplate.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmAbout.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmClusteredListing.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmSectorListing.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmColorCodeListing.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmGeneralSummary.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLeaderPerformance.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmColorSummary.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmStatusResultbyvillage.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmStatusResultbyMunicipal.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmStatusResultbyArea.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmStatusResultbyColor.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmAddtoLeaderList.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmLogin.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmVotersEntries.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.Resources.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.MainMonitoring.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.rptLeaders.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.rptOtherReport.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmAppearance.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmGridFormat.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmUserProfile.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmUsersAccounts.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.frmUploadedHistory.resources
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.vbproj.GenerateResource.Cache
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.exe.licenses
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.exe
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.xml
+C:\My Files\My.Net\System Core\Monitoring\Monitoring\obj\x86\Debug\Monitoring.pdb
